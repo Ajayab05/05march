@@ -31,3 +31,6 @@ export default withStyles(() => ({
     display: 'inline-block',
   },
 }))(MyComponent);
+
+
+This is ajay changes 
